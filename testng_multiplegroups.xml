@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite_multiplegroups">
+  <test thread-count="5" name="Test_multiplegroups">
+	  <groups>
+		  
+	  <run>		
+		  
+	  <include name = "sanity"></include>	  
+		  
+	  </run>	  
+	  
+	  </groups>	  
+    <classes>
+      <class name="testng1.multiplegroupstestcases_supportingtestcase"/>
+      <class name="testng1.multiplegroupstestcases"/>
+    </classes>
+  </test> <!-- Test_multiplegroups -->
+</suite> <!-- Suite_multiplegroups -->

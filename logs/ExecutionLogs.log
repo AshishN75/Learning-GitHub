@@ -1,0 +1,10 @@
+05.12.2023 14:30:32,413 INFO  LoginPage:34 - Username is entered in username text box
+05.12.2023 14:30:32,567 INFO  LoginPage:37 - Pssword is entered in Password text box
+05.12.2023 14:30:32,654 INFO  LoginPage:40 - Login button is clicked.
+05.12.2023 14:30:34,613 INFO  HomePage:37 - profile Picture button is clicked.
+05.12.2023 14:30:37,984 INFO  HomePage:40 - Logout link is cliked.
+05.12.2023 16:09:12,733 INFO  LoginPage:35 - Username is entered in username text box
+05.12.2023 16:09:13,055 INFO  LoginPage:39 - Password is entered in Password text box
+05.12.2023 16:09:14,650 INFO  LoginPage:43 - Login button is clicked.
+05.12.2023 16:09:15,084 INFO  HomePage:38 - profile Picture button is clicked.
+05.12.2023 16:09:16,788 INFO  HomePage:42 - Logout link is clicked.
