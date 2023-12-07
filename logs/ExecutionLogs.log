@@ -8,3 +8,8 @@
 05.12.2023 16:09:14,650 INFO  LoginPage:43 - Login button is clicked.
 05.12.2023 16:09:15,084 INFO  HomePage:38 - profile Picture button is clicked.
 05.12.2023 16:09:16,788 INFO  HomePage:42 - Logout link is clicked.
+07.12.2023 11:04:13,521 INFO  LoginPage:35 - Username is entered in username text box
+07.12.2023 11:04:14,058 INFO  LoginPage:39 - Password is entered in Password text box
+07.12.2023 11:04:15,794 INFO  LoginPage:43 - Login button is clicked.
+07.12.2023 11:04:16,230 INFO  HomePage:38 - profile Picture button is clicked.
+07.12.2023 11:04:18,611 INFO  HomePage:42 - Logout link is clicked.
