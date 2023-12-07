@@ -88,7 +88,6 @@
 				<version>3.1.2</version>
 				<configuration>
 					<suiteXmlFiles>
-						// testng.xml //	
 						LoginTest.xml					
 					</suiteXmlFiles>
 				</configuration>
